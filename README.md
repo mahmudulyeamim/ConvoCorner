@@ -8,7 +8,7 @@ ConvoCorner is a dynamic chat room platform designed to foster engaging, real-ti
 - **Chat Room Creation and Join:** Users can create or join chat rooms based on interests or topics.
 - **Real-Time Chat:** Instant messaging with text and image support via WebSockets.
 - **Message History:** View and scroll through past conversations.
-- **File Sharing:** Share images and files directly within chat rooms.
+- **File Sharing:** Share images directly within chat rooms.
 
 ## Technologies
 
