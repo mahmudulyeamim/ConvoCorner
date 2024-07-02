@@ -1,6 +1,6 @@
 # ConvoCorner
 
-ConvoCorner is a dynamic chat room platform designed to foster engaging, real-time communication and community building. This project was developed for the Computer Networking Lab project to demonstrate the practical application of networking concepts and technologies.
+ConvoCorner is a dynamic chat room platform designed to foster engaging, real-time communication and community building. This project was developed for the CSE-3111 Computer Networking Lab project to demonstrate the practical application of networking concepts and technologies.
 
 ## Key Features
 
